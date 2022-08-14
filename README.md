@@ -1,6 +1,6 @@
 # olcEngine Test
 
-A project to test the olcPixelGameEngine
+A project to test the <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">olcPixelGameEngine</a> 
 
 ## Installation
 
